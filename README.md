@@ -1,9 +1,8 @@
 # SnakeGameSQL
-A unique Snake game variation with 45-degree turns and PostgreSQL score tracking
+A Snake game variation with 45-degree turns and PostgreSQL score tracking
 
 # Snake Game Variation with PostgreSQL Connection
-
-Welcome to the Snake game variation where you can turn the snake at 45-degree angles and save your results to a PostgreSQL database. This project provides an exciting twist on the classic Snake game, allowing for more strategic gameplay and enabling players to record their achievements in a database.
+Welcome to the Snake game variation where you can turn the snake at 45-degree angles and save your results to a PostgreSQL database.
 
 ## Features
 
@@ -46,4 +45,4 @@ ATTRIBUTES = {
 
 ## Contributing
 
-Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, please submit a pull request. Let's make this game even better together.
+Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, please submit a pull request.
