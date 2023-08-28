@@ -21,7 +21,7 @@ Welcome to the Snake game variation where you can turn the snake at 45-degree an
 4. Run the game by executing `SnakeGame.lnk` in the `build` folder.
 5. Play the game, collect food, and see your scores saved to the database.
 
-###OR
+### OR
 
 1. Clone the repository and navigate to the project directory.
 2. Set up a virtual environment and install the required dependencies.
